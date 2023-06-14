@@ -1,7 +1,6 @@
 - 👋 Hi, I’m João Paulo Class, 
      and my github username is @JoaoPauloClass.
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Front-end web development
+- 🌱 I’m currently learning HTML, CSS and JavaScript
 - 📫 How to reach me:
-      joao.class@escola.pr.gov.br
+      theofficialspam8@gmail.com
