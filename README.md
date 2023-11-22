@@ -3,4 +3,4 @@
 - 👀 I’m interested in Front-end web development
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 - 📫 How to reach me:
-      theofficialspam8@gmail.com
+      joaopclass@gmail.com
