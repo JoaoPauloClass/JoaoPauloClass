@@ -1,6 +1,5 @@
-- 👋 Hi, I’m João Paulo Class, 
-     and my github username is @JoaoPauloClass.
-- 👀 I’m interested in Front-end web development
-- 🌱 I’m currently learning HTML, CSS and JavaScript
-- 📫 How to reach me:
-      joaopclass@gmail.com
+Top Projects:
+- Java game on terminal: https://github.com/JoaoPauloClass/Trabalho-Java-Final
+- DashBoard Futebol https://github.com/JoaoPauloClass/joao_class
+
+- reach me on my email: joaopclass@gmail.com
