@@ -1,9 +1,9 @@
 ## Sobre mim
 
-- 📊 Atuando como Engenheiro de Dados Júnior, com foco na construção de pipelines escaláveis e otimizados[cite: 1].
-- 🎓 Estudando Engenharia de Software na Universidade Positivo[cite: 1].
-- 💡 Focado em soluções de Business Intelligence, processos de ETL/ELT e modelagem dimensional[cite: 1].
-- 🌱 Atualmente aprofundando os estudos em ferramentas de Big Data e Cloud[cite: 1].
+- 📊 Atuando como Engenheiro de Dados Júnior, com foco na construção de pipelines escaláveis e otimizados.
+- 🎓 Estudando Engenharia de Software na Universidade Positivo.
+- 💡 Focado em soluções de Business Intelligence, processos de ETL/ELT e modelagem dimensional.
+- 🌱 Atualmente aprofundando os estudos em ferramentas de Big Data e Cloud.
 
 
 ## Minhas Skills
