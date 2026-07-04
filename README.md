@@ -46,10 +46,6 @@
 
 <br/>
 
-<a href="https://github.com/JoaoPauloClass" title="Perfil do João">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoPauloClass&theme=dracula&show_icons=true" />
-</a>
-
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-JoaoPauloClass-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaopauloclass/)](https://www.linkedin.com/in/joaopauloclass/)
